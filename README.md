@@ -1,2 +1,0 @@
-# Dynamics-
-RayField UI script 
