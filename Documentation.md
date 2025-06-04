@@ -1,6 +1,6 @@
 # 🚀 Dynamics GUI – Roblox Utility Hub
 
-Welcome to the official Discord server for **Dynamics** – a Rayfield-powered GUI designed for enhancing your Roblox experience!
+Welcome to the Github Repository for **Dynamics** – a Rayfield-powered GUI designed for enhancing your Roblox experience!
 
 ### 🔧 Features:
 - Change WalkSpeed & JumpPower
